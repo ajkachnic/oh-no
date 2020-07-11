@@ -1,4 +1,4 @@
-# oh-no<
+# oh-no
 
 Let's run through some potential issues
 
