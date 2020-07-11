@@ -2,21 +2,21 @@
 
 *[View the website](https://oh-no.now.sh)*
 
-Let's run through some potential issues
+let's run through some potential issues
 
 ## Broken disk or failure to mount
 
-Just run this code
+just run this code
 
 ```sh
 fsck /dev/whatever-disk-name
 ```
 
-## Wrong directory chowned or chmoded
+## wrong directory chowned or chmoded
 
-Just run the command that'll reverse the effect (just don't be stupid and chown `/`)
+just run the command that'll reverse the effect (just don't be stupid and chown `/`)
 
-## Removed bootloader
+## rm'd bootloader
 
 idiot. that's all i have for that one...
 
